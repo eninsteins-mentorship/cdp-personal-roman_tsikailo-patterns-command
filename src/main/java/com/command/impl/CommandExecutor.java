@@ -16,7 +16,6 @@ public class CommandExecutor {
         operationCommandMap.put(EMPTY, new Empty());
         operationCommandMap.put(DIR, new Dir());
         operationCommandMap.put(CD, new Cd());
-
         operationCommandMap.put(EXIT, new Exit());
     }
 

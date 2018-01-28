@@ -15,5 +15,4 @@ public final class Constants {
     public static final String WELCOME = "\tWelcome!";
     public static final String PATH = "path";
     public static final String CD = "cd";
-
 }
